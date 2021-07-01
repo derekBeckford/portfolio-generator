@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio generator program",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekBeckford/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator"
+  ],
+  "author": "Derek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derekBeckford/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/derekBeckford/portfolio-generator#readme"
+}
